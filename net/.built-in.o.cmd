@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /home/playfulgod/Android/2.3.5/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o net/built-in.o net/nonet.o net/wireless/built-in.o net/ieee802154/built-in.o 

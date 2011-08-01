@@ -1,0 +1,1 @@
+cmd_drivers/bsp_driver/built-in.o :=  /home/playfulgod/Android/2.3.5/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o drivers/bsp_driver/built-in.o drivers/bsp_driver/gpio_debug/built-in.o 

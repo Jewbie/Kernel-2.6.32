@@ -1,0 +1,1 @@
+cmd_drivers/i2c/built-in.o :=  /home/playfulgod/Android/2.3.5/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o drivers/i2c/built-in.o drivers/i2c/busses/built-in.o drivers/i2c/chips/built-in.o drivers/i2c/algos/built-in.o 
