@@ -21,3 +21,6 @@ Make the build
         This step may take a while, depending on your computer. 
 
 At this point you should have a kernel stored in ~/android/kernel/arch/arm/boot/zImage and kernel modules, if any were built, in the module sub-directories. 
+
+
+NOTE: Will edit to include more specifics as they come along.
